@@ -1,19 +1,16 @@
 {
-  "name": "create-express-api",
-  "version": "1.1.0",
-  "bin": {
-    "create-express-api": "index.js"
-  },
-  "description": "A CLI to automatically clone the Express API Starter",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/w3cj/create-express-api.git"
-  },
-  "keywords": [],
-  "author": "CJ R. <cj@null.computer> (https://w3cj.now.sh)",
-  "license": "MIT"
+	"name": "create-express-api-typescript",
+	"version": "1.0.0",
+	"bin": {
+		"create-express-api-typescript": "index.js"
+	},
+	"description": "A CLI to automatically clone the Express API Starter Typescript repo",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/xrenegade100/create-express-api-typescript.git"
+	},
+	"keywords": [],
+	"author": "Antonio Scognamiglio <antonio.scognamiglio12@outlook.it>",
+	"license": "MIT"
 }
