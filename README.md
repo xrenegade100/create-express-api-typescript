@@ -1,22 +1,26 @@
-# create-express-api
+# create-express-api-ts
 
-A CLI to automatically clone the [Express API Starter](https://github.com/w3cj/express-api-starter).
+A CLI to automatically clone the [Express API Starter Typescript](https://github.com/xrenegade100/express-api-starter-typescript).
 
 ## Installation
 
 Install the CLI globally OR use npx:
 
 ```sh
-npm install -g create-express-api
+npm install -g @xrenegade100/create-express-api-ts
 ```
 
 ## Usage
 
 ```sh
 # with global install
-create-express-api name-of-app
+@xrenegade100/create-express-api-ts name-of-app
 # with npx
-npx create-express-api name-of-app
+npx @xrenegade100/create-express-api-ts name-of-app
 ```
 
-This will create a directory with the given name, clone the [express API starter](https://github.com/w3cj/express-api-starter) repo into it, and install dependencies.
+This will create a directory with the given name, clone the [Express API Starter Typescript](https://github.com/xrenegade100/express-api-starter-typescript). repo into it, and install dependencies.
+
+## Credits
+
+This project is a fork of [create-express-api](https://github.com/w3cj/create-express-api).

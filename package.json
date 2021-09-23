@@ -1,8 +1,8 @@
 {
-	"name": "create-express-api-typescript",
+	"name": "@xrenegade100/create-express-api-ts",
 	"version": "1.0.0",
 	"bin": {
-		"create-express-api-typescript": "index.js"
+		"@xrenegade100/create-express-api-ts": "index.js"
 	},
 	"description": "A CLI to automatically clone the Express API Starter Typescript repo",
 	"main": "index.js",
